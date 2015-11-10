@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1403355274 source:c:\users\kyle\desktop\coding projects\c++\code blocks projects\polynomial solve\main.cpp
+	<iostream>
+	"poly.h"
+
+1403355274 c:\users\kyle\desktop\coding projects\c++\code blocks projects\polynomial solve\poly.h
+	<iostream>
+	<vector>
+	<string>
+	<math.h>
+	<cmath>
+	<Windows.h>
+	<algorithm>
+
+1403355274 source:c:\users\kyle\desktop\coding projects\c++\code blocks projects\polynomial solve\poly.cpp
+	"poly.h"
+
+1403351674 source:c:\users\kyle\documents\coding projects\c++\code blocks projects\polynomial solve\main.cpp
+	<iostream>
+	"poly.h"
+
+1403351674 c:\users\kyle\documents\coding projects\c++\code blocks projects\polynomial solve\poly.h
+	<iostream>
+	<vector>
+	<string>
+	<math.h>
+	<cmath>
+	<Windows.h>
+	<algorithm>
+
+1447118386 source:c:\users\kyle\documents\coding projects\c++\code blocks projects\polynomial solve\poly.cpp
+	"poly.h"
+
